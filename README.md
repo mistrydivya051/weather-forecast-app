@@ -75,4 +75,3 @@ npm run dev
 - Understanding how to update the weather data dynamically  
 - Debugging API key issues when requests failed  
 
-# weather-forecast-app
